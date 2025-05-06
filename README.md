@@ -1,5 +1,5 @@
 
-# # DeadGrid: Offline Survival Tablet Setup Guide
+# DeadGrid: Offline Survival Tablet Setup Guide
 
 DeadGrid OS transforms an Android tablet into a fully-offline survival reference system. This guide walks you through every step from preparing your device, structuring your folders, installing apps, configuring custom icons, to enabling advanced functionality like offline AI chat and rooted file access for unrestricted archive use.
 

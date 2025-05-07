@@ -104,7 +104,6 @@ Populate each with relevant ZIM, PDF, and GPX content.
 2. **Set as Default Launcher**.
 3. **Configure**:
 
-   * Grid: 6x6
    * Dock: Disabled
    * Padding: Medium
    * Icon Size: 120–150%
@@ -120,13 +119,6 @@ Use "Simple Icons Widget" or KWGT to fake widgets that link to PDF/ZIM categorie
 ## Step 6: Add Custom Icons
 
 * Icons: PNG, 1:1 square, 512px+, transparent or black background
-* Style:
-
-  * Color: `#00FF41` neon green
-  * Font: Bold monospace
-  * Glow: Outer green glow (strong spread)
-* App icons: No text
-* Folder icons: Include label text in graphic (e.g., “Medicine”)
 
 Included in this repository are custom Terminal theme icons
 
@@ -197,7 +189,7 @@ Included in this repository are custom Terminal theme icons
 | ---------------------------------------- | ----------------------------------------------------------------------------------- |
 | Kiwix can’t open ZIMs outside app folder | Root device OR move files manually into `Android/data/org.kiwix.kiwixmobile/files/` |
 | No shortcuts to ZIM/PDF inside folder    | Use Nova Launcher + folder structure or widgets                                     |
-| Picture Mushroom or Pl@natNet needs login/internet    | Use ShroomID or download region-based plant guides                                  |
+| ShroomID or Pl@natNet needs login/internet    | Download region-based plant guides                                  |
 | OsmAnd folder restrictions               | Root, or use app’s internal file manager to import                                  |
 
 ---
